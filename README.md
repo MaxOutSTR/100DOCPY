@@ -9,4 +9,6 @@ This repo will contain 100 projects done by completing the Dr. Angela Yu's cours
 
 ~~Day 3: Choose Your Own Adventure Game~~ DONE
 
-Day 4: TODO
+~~Day 4: Rock Paper Scissors~~ DONE
+
+Day 5: TODO
