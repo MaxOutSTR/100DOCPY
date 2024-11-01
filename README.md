@@ -13,4 +13,6 @@ This repo will contain 100 projects done by completing the Dr. Angela Yu's cours
 
 ~~Day 5: Password Generator~~ DONE
 
-Day 6: TODO
+~~Day 6: Escaping The Maze~~ DONE
+
+Day 7: TODO
