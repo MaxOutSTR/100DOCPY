@@ -15,4 +15,6 @@ This repo will contain 100 projects done by completing the Dr. Angela Yu's cours
 
 ~~Day 6: Escaping The Maze~~ DONE
 
-Day 7: TODO
+~~Day 7: Hangman~~ DONE
+
+Day 8: TODO
