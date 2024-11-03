@@ -19,4 +19,6 @@ This repo will contain 100 projects done by completing the Dr. Angela Yu's cours
 
 ~~Day 8: Caesar Cypher~~ DONE
 
-Day 9: TODO
+~~Day 9: Blind Auction~~ DONE
+
+Day 10: TODO
