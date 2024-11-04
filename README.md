@@ -21,4 +21,6 @@ This repo will contain 100 projects done by completing the Dr. Angela Yu's cours
 
 ~~Day 9: Blind Auction~~ DONE
 
-Day 10: TODO
+~~Day 10: Calculator~~ DONE
+
+Day 11: TODO
