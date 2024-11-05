@@ -23,4 +23,6 @@ This repo will contain 100 projects done by completing the Dr. Angela Yu's cours
 
 ~~Day 10: Calculator~~ DONE
 
-Day 11: TODO
+~~Day 11: Blackjack~~ DONE
+
+Day 12: TODO
