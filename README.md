@@ -45,4 +45,6 @@ This repo will contain 100 projects done by completing the Dr. Angela Yu's cours
 
 ~~Day 21: Snake Game 2~~ DONE
 
-Day 22: TODO
+~~Day 22: Pong~~ DONE
+
+Day 23: TODO
